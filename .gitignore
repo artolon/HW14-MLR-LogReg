@@ -1,0 +1,4 @@
+# ignore the csv files
+bottle.csv
+cast.csv
+diabetes.csv
